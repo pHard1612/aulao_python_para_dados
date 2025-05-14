@@ -9,4 +9,5 @@ aprimoramento de conhecimento e autonomia com a linguagem de programação.
 links úteis:
 1. Google Colab: https://colab.research.google.com/drive/1kNKsU7YjBxTBI3V7FIUwDG3YyV3vz2mc?usp=sharing
 2. Planilhas com inscritos: https://docs.google.com/spreadsheets/d/19uunZCEN8oEMSmiWRQMYI8iUuKDZ3n23a66cI4-buyU/edit?usp=sharing
-3. 
+3. Git com os projetos e materiais: https://github.com/pHard1612/aulao_python_para_dados
+4. Udemy: 
